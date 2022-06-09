@@ -15,3 +15,4 @@ git config user.password "password/personal access token" >> to save the credent
 git log >> gives all the detail about the commit that have been done  
 git checkout <file> >> undo to the last commit changes. if commit id is used, code from that commit will be replaced. if main is used latest code from the repository will be replaced  
 git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(reset) %><(55,trunc)%s%C(red)%d%C(reset) %C(blue)[%an]%C(reset) %C(yellow)%ad%C(reset)%n' >> an alternate command to "git log" which is formated with color as id, message and other details  
+edit through vs code
