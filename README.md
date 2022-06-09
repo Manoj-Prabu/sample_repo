@@ -12,3 +12,5 @@ git push origin master >> push the changes to the github
 git diff <file> >> show the difference between old & new code  
 git config user.name "username"  
 git config user.password "password/personal access token" >> to save the credentials in the git bash  
+git checkout <file> >> undo to the last commit changes  
+git log >> gives all the detail about the commit that have been done  
