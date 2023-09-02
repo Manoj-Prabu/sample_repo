@@ -18,3 +18,4 @@ git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(r
 git clean -f >> to remove the untracked files  
 git restore <file> >> to discard changes in working directory  
 q >> to come out of git log loop  
+checking with alternate email
